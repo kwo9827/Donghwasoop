@@ -1,9 +1,5 @@
 # 🌳 동화숲 (FairyTale Forest)
 
-<p align="center">
-    <img src="./readme/이미지/Login.png">
-</p>
-
 **"부모의 목소리로 아이의 정서를 살피는 AI 동화 서비스"**
 
 [🔗 서비스 바로가기](https://donghwasoop.com/) · [📘 API 명세서](https://yielding-libra-062.notion.site/API-1d560a1ef67281359594cce20eabaef7?pvs=4) · [🎨 와이어프레임](https://www.figma.com/design/qlkrP2L61tqSOUJ1oiykbp/Wireframe?node-id=29-7&p=f&t=g2o8jc2yXlMdzHI7-0)
@@ -31,9 +27,15 @@
 - 자녀 프로필 등록 및 관리
 
 <p align="center">
-    <img src="./readme/이미지/Login.png" alt="로그인 화면">
-    <img src="./readme/영상gif/Startsetting.gif" alt="프로필 설정 화면">
+![동화숲1](https://github.com/user-attachments/assets/b80cf2ac-d9f1-4177-9ab5-af4619566004)
+![동화숲2](https://github.com/user-attachments/assets/0af1b11a-adf2-466b-945e-d2686f469474)
 </p>
+
+<p align="center">
+![동화숲3](https://github.com/user-attachments/assets/1ec8378d-987a-49f9-b804-6b923a3446d4)
+![동화숲4](https://github.com/user-attachments/assets/ce854397-2bb8-4d3e-829c-3128d52c6fbf)
+</p>
+
 
 #### 2. AI 음성 동화 서비스 및 동요 서비스스
 - **부모 목소리 복제**: Zonos 기반 TTS 모델로 자연스러운 음성 생성, 기본 곰돌이 tts로 캐릭터 목소리로 음성 생성 가능
