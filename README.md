@@ -43,37 +43,24 @@
 - **동화/동요 콘텐츠**: 대표 동화, 동요 12개 제공
 - **동화 생성 뱃지**: 웹 소켓으로 동화 '생성 중', '생성 완료' 뱃지 구분
 
-<p align="center">
-    동화 생성 요청
-    <img src="./readme/영상gif/동화생성요청.gif" alt="동화 서비스 화면">
-    동화 생성 완료 및 상세보기
-    <img src="./readme/영상gif/동화생성완료및상세보기.gif" alt="동화 서비스 화면">
-    동요 서비스
-    <img src="./readme/영상gif/동요.gif" alt="동화 서비스 화면">
-</p>
+![동화숲5](https://github.com/user-attachments/assets/2995ebaf-6880-4125-a463-276270b5d02b)
+![동화숲6](https://github.com/user-attachments/assets/ef8444f3-bea6-4166-8011-ce8b26809c99)
+![동화숲7](https://github.com/user-attachments/assets/ac43e977-a640-4123-a5a9-2f86ae22d0fd)
+
 
 #### 3. AI 캐릭터 편지
 - 동화 속 캐릭터와 음성 편지 교환
 - AI가 캐릭터의 특성을 반영한 답장 생성
 - 감정 분석 기반의 맞춤형 응답
 
-<p align="center">
-    편지 보내기
-    <img src="./readme/영상gif/편지-보내기.gif" alt="편지 기능 화면">
-    편지함 확인(보낸 편지, 받은 편지 확인 가능)
-    <img src="./readme/영상gif/편지_답변확인.gif" alt="편지 기능 화면">
-</p>
+![동화숲8](https://github.com/user-attachments/assets/d44c231b-35f5-41bf-a092-bbea591aee19)
+![동화숲9](https://github.com/user-attachments/assets/d1ef119a-482d-4513-8dab-8cdf9cf7be1f)
+![동화숲10](https://github.com/user-attachments/assets/c1163a46-1573-4702-8709-b825c354aad8)
+
 
 #### 4. 맞춤형 환경 설정
 - 배경 음악 On/Off
 - 자녀별 설정 프로필 관리
-
-<p align="center">
-    아이의 접근을 막기 위한 곱셈 문제
-    <img src="./readme/영상gif/설정화면비밀번호.gif" alt="설정 화면">
-    목소리와 자녀 추가 등록
-    <img src="./readme/영상gif/목소리_자녀-추가등록.gif" alt="설정 화면">
-</p>
 
 ---
 
